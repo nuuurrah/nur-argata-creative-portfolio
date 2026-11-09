@@ -1,14 +1,18 @@
-# Welcome to your Lovable project
+# Nur Argata Creative Portfolio
+
+generate a one section landing page with a hero header, include my name-Nur Argata- , a subtitle, and a button labeled "View My Projects".
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://nur-argata-creative-portfolio.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/1d32bfb8-c72c-4ac6-b9e9-6693b7b34fe9).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +24,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
